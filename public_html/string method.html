@@ -1,0 +1,33 @@
+
+<html>
+    <head>
+        <title>string method</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <p id="p1"></p>
+        <p id="p2"></p>
+        <p id="p3"></p>
+        <p id="p4"></p>
+        <p id="p5"></p>
+        <p id="p6"></p>
+        <p id="p7"></p>
+        <p id="p8"></p>
+
+        <script>
+        var date = new Date();
+
+        document.getElementById("p1").innerHTML = date.getTime();
+        document.getElementById("p2").innerHTML = date.getFullYear();
+        document.getElementById("p3").innerHTML = date.getMonth()+1;
+        document.getElementById("p4").innerHTML = date.getDate();
+        document.getElementById("p5").innerHTML = date.getHours();
+        document.getElementById("p6").innerHTML = date.getMinutes();
+        document.getElementById("p7").innerHTML = date.getSeconds();
+        document.getElementById("p8").innerHTML = date.getDay();
+      
+        </script>
+      </body>  
+     </html>
