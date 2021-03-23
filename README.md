@@ -1,4 +1,4 @@
-# JavaScript outut
+# JavaScript output
 
 ![acces array](https://user-images.githubusercontent.com/79982684/112101033-06e21080-8bcc-11eb-92a5-3c196f8cfb42.JPG)
 ![add element](https://user-images.githubusercontent.com/79982684/112101049-0c3f5b00-8bcc-11eb-9bb3-48d3166ed6c0.JPG)
